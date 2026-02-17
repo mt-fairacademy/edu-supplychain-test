@@ -1,1 +1,1 @@
-# fairedu_supplychain
+# fair_edu_supplychain
